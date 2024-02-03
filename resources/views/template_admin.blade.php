@@ -35,9 +35,9 @@
                         <div class="container-xxl flex-grow-1 container-p-y">
                             <div class="row">
                                 <div class="col-md-7">
-                                    <h5 class="card-title text-primary">Gestion de cursos / instructores! 🎉</h5>
+                                    <h5 class="card-title text-primary">Gestión de cursos e instructores! 🎉</h5>
                                     <p class="mb-4">
-                                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Exercitationem cum voluptas ullam corrupti nihil totam, facere, pariatur laborum praesentium tempore fuga dignissimos amet dolore suscipit sunt labore beatae reprehenderit. Laborum!
+                                    Plataforma para la gestión de cursos para estudiantes y profesores
                                     </p>
                                 </div>
                                 <div class="col-md-5 text-center">

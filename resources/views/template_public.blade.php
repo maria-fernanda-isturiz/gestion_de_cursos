@@ -96,7 +96,7 @@
                                     <p class="card-text">
                                         {{$cursos->trayectoria}}
                                     </p>
-                                    <button class="btn btn-primary"><i class='bx bxs-detail'></i> Ver Mas</button>
+                                    <button class="btn btn-primary"><i class='bx bxs-detail'></i> Ver Más</button>
                                     <button class="btn btn-secondary"><i class='bx bxs-badge-check'></i> Inscribirme
                                     </button>
                                 </div>

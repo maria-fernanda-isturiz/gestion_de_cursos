@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Gestion de Cursos</title>
+    <title>Gestión de Cursos</title>
     <!-- Favicon -->
     <link rel="icon" type="image/x-icon" href="{{ url('/') }}/assets/img/favicon/favicon.ico" />
     <!-- Fonts -->
@@ -87,7 +87,7 @@
                 </div>
                 <!-- /Logo -->
                 <h4 class="mb-2">Bienvenido/a! :hola:</h4>
-                <p class="mb-4">Por favor ingresa tu correo y contraseña para inciar la aventura!</p>
+                <p class="mb-4">¡Por favor ingresa tu correo y contraseña para inciar la aventura de aprendizaje!</p>
                 <form id="formAuthentication" class="mb-3" action="{{route('iniciar_sesion')}}" method="POST">
                     @method('GET')
                     <div class="mb-3">
